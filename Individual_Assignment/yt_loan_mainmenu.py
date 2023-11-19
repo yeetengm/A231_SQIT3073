@@ -2,7 +2,7 @@
 # This file is the `Main Menu`, you may need to download `yt_loan_function_calculator` to support this sheet.
 # After completed download both files, you may straitly run this file.
 # This file is the split code in TWO FILES. This file will use `import` to functions.
-# Do not copy, I have insert my personal trademark in this file. If you copy, lecturer will knows.
+# I have insert my personal watermark in this file.
 
 
 import os
