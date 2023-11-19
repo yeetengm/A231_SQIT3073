@@ -232,7 +232,7 @@ class LoanCalculator:
             print(f"\nCalculation {index_to_delete} deleted successfully: ")
             print("\nDeleted Calculation Details:")
 
-            # To display details of the deleted loan calculation
+            # To display details of the deleted loan calculation.
             for key, value in deleted_calculation.items():
                 if key == "Monthly Debt Commitments":
                     print(f"{key}:")
