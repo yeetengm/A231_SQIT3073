@@ -1,7 +1,8 @@
 
-# This sheet is the back-end calculator functions to support `Main Menu`.
-# Do not run this sheet. 
-# Do not copy, I have insert my personal trademark in this code. If you copy, lecturer will knows.
+# This file is the back-end calculator functions to support `Main Menu`.
+# Please do download this file to support `yt_loan_mainmenu`.
+# Do not run this file. 
+# Do not copy, I have insert my personal trademark in this file. If you copy, lecturer will knows.
 
 
 class LoanCalculator:

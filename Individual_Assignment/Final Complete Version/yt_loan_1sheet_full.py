@@ -1,7 +1,7 @@
 
-# This sheet is the FULL Loan Calculator in ONE SHEET.
-# You may straightly run the code.
-# Do not copy, I have insert my personal trademark in this code. If you copy, lecturer will knows.
+# This file is the FULL Loan Calculator in ONE FILE.
+# You may straightly run the file.
+# Do not copy, I have insert my personal trademark in this file. If you copy, lecturer will knows.
 
 import os
 try:

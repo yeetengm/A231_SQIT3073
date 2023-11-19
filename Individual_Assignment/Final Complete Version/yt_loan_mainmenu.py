@@ -1,8 +1,8 @@
 
-# This sheet is the `Main Menu`, you may need to download `yt_loan_function_calculator` to support this sheet.
-# After completed download both sheets, you may straitly run this sheet.
-# This sheet is the split code in TWO SHEETS. This sheet will use `import` to functions.
-# Do not copy, I have insert my personal trademark in this code. If you copy, lecturer will knows.
+# This file is the `Main Menu`, you may need to download `yt_loan_function_calculator` to support this sheet.
+# After completed download both files, you may straitly run this file.
+# This file is the split code in TWO FILES. This file will use `import` to functions.
+# Do not copy, I have insert my personal trademark in this file. If you copy, lecturer will knows.
 
 
 import os
