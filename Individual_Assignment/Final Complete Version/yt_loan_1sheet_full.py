@@ -246,5 +246,3 @@ class LoanCalculator:
             print(" Your input is invalid. No calculation deleted.")
 
 
-# Generate by YEE TENG. 
-# yeeteng11.kl@gmail.com.
