@@ -102,7 +102,7 @@ class LoanCalculator:
     # Functions to display previous loan calculation.
     def display_previous_loans_calculation(self):
 
-        # If the user's didn't have any previous loan calculation
+        # If the user's didn't have any previous loan calculation.
         if not self.loan_calculations:
             print("\nNo previous loan calculations.")
         else:
