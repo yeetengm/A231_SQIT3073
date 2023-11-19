@@ -2,7 +2,7 @@
 # This file is the back-end calculator functions to support `Main Menu`.
 # Please do download this file to support `yt_loan_mainmenu`.
 # Do not run this file. 
-# Do not copy, I have insert my personal trademark in this file. If you copy, lecturer will knows.
+# I have insert my personal watermark in this file. 
 
 
 class LoanCalculator:
