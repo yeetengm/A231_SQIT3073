@@ -14,7 +14,7 @@ except:
         # Attempt to clear the screen for Windows if the first try fails.
         os.system('cls')
     except:
-        # Output an error message if both attempts fail
+        # Output an error message if both attempts fail.
         print("Unable to clear the screen.")
 
 # Import yt_loan_function_calculator for loan calculator function.
