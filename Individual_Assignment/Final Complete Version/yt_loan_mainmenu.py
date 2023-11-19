@@ -95,5 +95,5 @@ if __name__ == "__main__":
     loan_calculator = LoanCalculator()
     selection_menu(loan_calculator)
 
-# Generate by YEE TENG. 
+# Generate by YEE TENG
 # yeeteng11.kl@gmail.com.
