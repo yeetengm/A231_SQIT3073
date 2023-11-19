@@ -1,7 +1,7 @@
 
 # This file is the FULL Loan Calculator in ONE FILE.
 # You may straightly run the file.
-# Do not copy, I have insert my personal trademark in this file. If you copy, lecturer will knows.
+# I have insert my personal watermark in this file.
 
 
 import os
