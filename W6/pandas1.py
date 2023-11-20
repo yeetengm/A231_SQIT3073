@@ -1,6 +1,6 @@
 
 import pandas
 
-a= ( 'saya', 'suka', 'makan')
+a= ['saya', 'suka', 'makan']
 b=pandas.DataFrame(a)
-print(b)
+print(b)                                 
