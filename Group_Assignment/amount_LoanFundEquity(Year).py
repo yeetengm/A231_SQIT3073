@@ -1,3 +1,7 @@
+
+# Total Amount of Fund, Equity, and Loan from 2012 to 2022
+# Line Chart
+
 # Import necessary libraries
 import numpy as np
 import matplotlib.pyplot as plt
@@ -7,7 +11,7 @@ from matplotlib.dates import YearLocator, DateFormatter
 # Read data from Microsoft Excel file. The path of particular file need to change according to the places you save.
 df = pd.read_excel("/Users/yeetengm/Library/CloudStorage/OneDrive-UNIVERSITYUTARAMALAYSIA/yeetengm's mac/SEM 7/Business Analytics/Group Assignment/Final Version/Modified 1.31.xlsx",sheet_name="Sheet2")
 
-# Extract used data from Excel file for plotting.
+# Extract used data from Excel file for plotting.  
 # 1. Year
 year = list(df["Year"])
 print(year)
