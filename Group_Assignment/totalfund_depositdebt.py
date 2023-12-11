@@ -1,3 +1,7 @@
+
+# Total Fund from 2012 to 2022
+# Bar Chart
+
 # Import necessary libraries
 import numpy as np
 import matplotlib.pyplot as plt
