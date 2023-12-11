@@ -1,4 +1,7 @@
 
+# Ratio of Loan, Fund and Equity from 2012 to 2022
+# Horizontal Stack Bar Chart
+
 # Import numpy, matplotlib, pandas library
 import numpy as np
 import matplotlib.pyplot as plt
@@ -61,7 +64,7 @@ plt.legend(loc=(0.65,1.075), ncol=3,fontsize=7.5)
 plt.gca().set_facecolor('linen')
 
 # For saving chart as png.
-plt.savefig('Ratio of Loan, Fund and Equity from 2012 to 2022t.png', bbox_inches='tight')
+plt.savefig('Ratio of Loan, Fund and Equity from 2012 to 2022.png', bbox_inches='tight')
 
 # Show the graph.
 plt.show()
