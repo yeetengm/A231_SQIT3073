@@ -15,7 +15,9 @@ start_month = 1
 current_year = current_date.year
 current_month = current_date.month
 
-# Create a list to store the data for each month
+# Create a list to store the data for each month 
+# (To store every information, it can put in dataframe and save in excel)
+# (Then next time we can check our excel file 1st before we run)
 data_list = []
 
 # Loop through the months from the start date to the current date
