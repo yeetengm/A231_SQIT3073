@@ -50,6 +50,8 @@ while start_year <= current_year or (start_year == current_year and start_month 
     else:
         start_month += 1
 
+    print(len(data_list))
+
 # PPrint is used to show proper format of JSON
 
 pprint(data_list)
